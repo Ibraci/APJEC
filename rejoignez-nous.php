@@ -49,7 +49,7 @@
 					</div>
 					<div class="intro-item" style="background-image: url(img/04.jpg);">
 					</div>	
-					<div class="intro-item" style="background-image: url(img/05.jpg);">
+					<div class="intro-item" style="background-image: url(img/07.jpg);">
 					</div>														
 				</div><!-- intro -->				
 			</div><!-- intro-wrap -->
