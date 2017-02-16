@@ -218,6 +218,8 @@
 						<div class="widget column three">
 							<h4>Adresse</h4>
 							<p>
+								+223 66 00 80 08<br>
+								apjec@apjec.ml<br>
 								Niamakoro,<br>
 								Cite des Enfants,<br>
 								Bamako,<br>
