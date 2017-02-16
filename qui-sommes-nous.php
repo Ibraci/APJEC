@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<meta name="description" content="The Page Description">
 		<style type="text/css">@-ms-viewport{width: device-width;}</style>
-		<title>APJEC | Action pour la Promotion des Jeunes et Enfants Communicateurs</title>
+		<title>Qui Sommes-nous ? | APJEC</title>
 		<link rel="stylesheet" href="css/layers.min.css" media="screen">
 		<link rel="stylesheet" href="css/font-awesome.min.css" media="screen"> 
 		<link rel="stylesheet" href="css/style.css" media="screen">
@@ -16,7 +16,7 @@
 		<!--[if lt IE 9]>
 		<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 		<![endif]-->
-		<link rel="icon" href="favicon.ico">
+		<link rel="icon" type="image/png" href="favicon.ico" />
 		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 		<link rel="apple-touch-icon" sizes="76x76" href="img/apple-touch-icon-76x76.png">
 		<link rel="apple-touch-icon" sizes="120x120" href="img/apple-touch-icon-120x120.png">
@@ -138,8 +138,8 @@
 							<p>
 								+223 66 00 80 08<br>
 								apjec@apjec.ml<br>
-								Niamakoro,<br>
 								Cite des Enfants,<br>
+								Niamakoro,<br>
 								Bamako,<br>
 								Mali.
 							</p>

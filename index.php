@@ -16,7 +16,7 @@
 		<!--[if lt IE 9]>
 		<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 		<![endif]-->
-		<link rel="icon" href="favicon.ico">
+		<link rel="icon" type="image/png" href="favicon.ico" />
 		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 		<link rel="apple-touch-icon" sizes="76x76" href="img/apple-touch-icon-76x76.png">
 		<link rel="apple-touch-icon" sizes="120x120" href="img/apple-touch-icon-120x120.png">
@@ -103,25 +103,25 @@
 				<section class="row section text-light" style="background-color: #FC6E51">
 					<div class="row-content buffer even clear-after">
 						<div class="column four centertxt">
-							<div class="big-icon red"><i class="icon icon-flash"></i></div>
+							<div class="big-icon red"><i class="fa fa-flash"></i></div>
 							<div class="big-icon-text clear-after">
-								<h4>Landing page</h4>
+								<h4>SEBA 2016</h4>
 								<p class="text-s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 								<a class="button transparent white" href="#">Lire plus</a>
 							</div>
 						</div>
 						<div class="column four centertxt">
-							<div class="big-icon red"><i class="icon icon-compass"></i></div>
+							<div class="big-icon red"><i class="fa fa-compass"></i></div>
 							<div class="big-icon-text clear-after">
-								<h4>Blog</h4>
+								<h4>Oxy-Jeunes</h4>
 								<p class="text-s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 								<a class="button transparent white" href="#">Lire plus</a>
 							</div>
 						</div>						
 						<div class="column four last centertxt">
-							<div class="big-icon red"><i class="icon icon-picture"></i></div>
+							<div class="big-icon red"><i class="fa fa-picture"></i></div>
 							<div class="big-icon-text clear-after">
-								<h4>Portfolio</h4>
+								<h4>Maxi jeunes</h4>
 								<p class="text-s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 								<a class="button transparent white" href="#">Lire plus</a>
 							</div>
@@ -220,8 +220,8 @@
 							<p>
 								+223 66 00 80 08<br>
 								apjec@apjec.ml<br>
-								Niamakoro,<br>
 								Cite des Enfants,<br>
+								Niamakoro,<br>
 								Bamako,<br>
 								Mali.
 							</p>

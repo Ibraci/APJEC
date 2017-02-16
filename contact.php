@@ -14,7 +14,7 @@
 		<!--[if lt IE 9]>
 		<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 		<![endif]-->
-		<link rel="icon" href="favicon.ico">
+		<link rel="icon" type="image/png" href="favicon.ico" />
 		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
 		<link rel="apple-touch-icon" sizes="76x76" href="img/apple-touch-icon-76x76.png">
 		<link rel="apple-touch-icon" sizes="120x120" href="img/apple-touch-icon-120x120.png">
@@ -56,9 +56,9 @@
 						<div class="section-title"><h3>Contactez-nous</h3></div>
 						<div class="column nine">
 							<form id="contact-form" class="contact-section" method="post" action="">
-								<span class="pre-input"><i class="icon icon-user"></i></span>
+								<span class="pre-input"><i class="fa fa-user"></i></span>
 								<input class="name plain buffer" type="text" name="name" placeholder="Nom Complet" required />
-								<span class="pre-input"><i class="icon icon-email"></i></span>
+								<span class="pre-input"><i class="fa fa-email"></i></span>
 								<input class="email plain buffer" type="email" name="email" placeholder="Email" required />
 								<textarea class="plain buffer" name="message" placeholder="Message" required></textarea>
 								<input id="send" class="plain button red" type="button" value="Envoyer">
@@ -69,7 +69,7 @@
 							<div class="widget">
 								<h4>Emplacement</h4>
 								<p>
-									Niamakoro, Cite des Enfants,<br>
+									Cite des Enfants, Niamakoro,<br>
 									Bamako,<br>
 									Mali
 								</p>
