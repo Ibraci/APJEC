@@ -83,10 +83,9 @@
 							</div>
 							<div class="widget">
 								<h4>Réseaux Sociaux</h4>
-								<ul class="inline meta-social">
-									<li><a href="#" class="twitter-share border-box"><i class="fa fa-twitter fa-lg"></i></a></li>
+								<ul class="inline">
+									<li><a href="https://twitter.com/ongapjec" class="twitter-share border-box"><i class="fa fa-twitter fa-lg"></i></a></li>
 									<li><a href="https://www.facebook.com/ongapjec/" class="facebook-share border-box"><i class="fa fa-facebook fa-lg"></i></a></li>
-									<li><a href="#" class="linkedin-share border-box"><i class="fa fa-linkedin fa-lg"></i></a></li>
 									<li><a href="#" class="youtube-share border-box"><i class="fa fa-youtube fa-lg"></i></a></li>
 								</ul>
 							</div>								
@@ -134,9 +133,8 @@
 						<div class="widget meta-social column three">
 							<h4>Suivez-nous</h4>
 							<ul class="inline">
-								<li><a href="#" class="twitter-share border-box"><i class="fa fa-twitter fa-lg"></i></a></li>
+								<li><a href="https://twitter.com/ongapjec" class="twitter-share border-box"><i class="fa fa-twitter fa-lg"></i></a></li>
 								<li><a href="https://www.facebook.com/ongapjec/" class="facebook-share border-box"><i class="fa fa-facebook fa-lg"></i></a></li>
-								<li><a href="#" class="linkedin-share border-box"><i class="fa fa-linkedin fa-lg"></i></a></li>
 								<li><a href="#" class="youtube-share border-box"><i class="fa fa-youtube fa-lg"></i></a></li>
 							</ul>
 						</div>														
