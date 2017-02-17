@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 	<head>
 		<meta charset="utf-8">
@@ -142,7 +142,7 @@
 							</p>
 						</div>				
 						<div class="widget meta-social column three">
-							<h4>Follow Us</h4>
+							<h4>Suivez-nous</h4>
 							<ul class="inline">
 								<li><a href="https://twitter.com/ongapjec" class="twitter-share border-box"><i class="fa fa-twitter fa-lg"></i></a></li>
 								<li><a href="https://www.facebook.com/ongapjec/" class="facebook-share border-box"><i class="fa fa-facebook fa-lg"></i></a></li>

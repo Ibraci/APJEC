@@ -1,17 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-		<meta name="description" content="The Page Description">
+		<meta name="description" content="Action pour la Promotion des Jeunes et Enfants Communicateurs">
+		<meta name="author" content="Ibrahim CISSE">
 		<style type="text/css">@-ms-viewport{width: device-width;}</style>
 		<title>APJEC | Action pour la Promotion des Jeunes et Enfants Communicateurs</title>
 		<link rel="stylesheet" href="css/layers.min.css" media="screen">
 		<link rel="stylesheet" href="css/font-awesome.min.css" media="screen"> 
 		<link rel="stylesheet" href="css/style.css" media="screen">
-		<link href='http://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+		 <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"> 
+		<meta name="google-site-verification" content="61XzmO50hOtsrla2yNCt5QlnUAdS7kXBMk-MRC4s_kE" />
 
+		<link rel="alternate" hreflang="fr" href="https://www.apjec.ml/"/>
 
 		<!--[if lt IE 9]>
 		<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>

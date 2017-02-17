@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 	<head>
 		<meta charset="utf-8">
@@ -124,8 +124,8 @@
 							<p>
 								+223 66 00 80 08<br>
 								apjec@apjec.ml<br>
-								Niamakoro,<br>
 								Cite des Enfants,<br>
+								Niamakoro,<br>
 								Bamako,<br>
 								Mali.
 							</p>
