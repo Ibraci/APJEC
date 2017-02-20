@@ -7,7 +7,7 @@
 		<meta name="description" content="Action pour la Promotion des Jeunes et Enfants Communicateurs">
 		<meta name="author" content="Ibrahim CISSE">
 		<style type="text/css">@-ms-viewport{width: device-width;}</style>
-		<title><?php echo isset($tile) ? $tile .' | APJEC' : 'APJEC | Action pour la Promotion des Jeunes et Enfants Communicateurs' ; ?></title>
+		<title><?php echo isset($title) ? $title .' | APJEC' : 'APJEC | Action pour la Promotion des Jeunes et Enfants Communicateurs' ; ?></title>
 		<link rel="stylesheet" href="css/layers.min.css" media="screen">
 		<link rel="stylesheet" href="css/font-awesome.min.css" media="screen"> 
 		<link rel="stylesheet" href="css/style.css" media="screen">

@@ -1,4 +1,4 @@
-<?php $tile = "Rejoingnez-nous"; ?>
+<?php $title = "Rejoingnez-nous"; ?>
 
 <?php include('partials/_header.php'); ?>
 

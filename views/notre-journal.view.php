@@ -1,4 +1,4 @@
-<?php $tile = "Notre Journal"; ?>
+<?php $title = "Notre Journal"; ?>
 
 <?php include('includes/contants.php'); ?>
 

@@ -1,4 +1,4 @@
-<?php $tile = "Contact"; ?>
+<?php $title = "Contact"; ?>
 
 <?php include('partials/_header.php'); ?>
 
@@ -18,7 +18,7 @@
 					<form id="contact-form" class="contact-section" method="post" action="">
 						<span class="pre-input"><i class="fa fa-user"></i></span>
 						<input class="name plain buffer" type="text" name="name" placeholder="Nom Complet" required />
-						<span class="pre-input"><i class="fa fa-email"></i></span>
+						<span class="pre-input"><i class="fa fa-envelope"></i></span>
 						<input class="email plain buffer" type="email" name="email" placeholder="Email" required />
 						<textarea class="plain buffer" name="message" placeholder="Message" required></textarea>
 						<input id="send" class="plain button red" type="button" value="Envoyer">

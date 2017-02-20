@@ -18,7 +18,7 @@
 								<li><a href="#">Nos Activites</a></li>
 								<li><a href="#">Nos Realisations</a></li>
 								<li><a href="#">Domaine d'intervention</a></li>
-								<li><a href="#">Galerie</a></li>
+								<li><a href="galerie.php">Galerie</a></li>
 							</ul>
 						</div>								
 						<div class="widget column three">

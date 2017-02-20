@@ -1,4 +1,4 @@
-<?php $tile = "Qui Sommes-nous ?"; ?>
+<?php $title = "Qui Sommes-nous ?"; ?>
 
 <?php include('partials/_header.php'); ?>
 
