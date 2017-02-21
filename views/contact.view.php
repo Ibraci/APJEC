@@ -21,7 +21,7 @@
 						<span class="pre-input"><i class="fa fa-envelope"></i></span>
 						<input class="email plain buffer" type="email" name="email" placeholder="Email" required />
 						<textarea class="plain buffer" name="message" placeholder="Message" required></textarea>
-						<input id="send" class="plain button red" type="button" value="Envoyer">
+						<input id="send" name="envoyer" class="plain button red" type="button" value="Envoyer">
 					</form>	
 					<div id="success"></div>
 				</div>

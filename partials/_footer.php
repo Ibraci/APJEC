@@ -55,7 +55,7 @@
 		<script>
 		$(document).ready(function(){
 			$('#send').click(function(){
-				$(this).val('Sending ...');
+				$(this).val('Envoi ...');
 				$('#success p').remove();
 				$.post('contact/contact.php', $('#contact-form').serialize(), function(response) {
 					$('#success').html(response);
