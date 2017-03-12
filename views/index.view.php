@@ -1,4 +1,10 @@
+<?php 
+	require('config/database.php');
 
+	$req = $db->query('SELECT * FROM news');
+	$articles = $req->fetchAll();
+
+?>
 <?php include('includes/contants.php'); ?>
 
 <?php include('partials/_header.php'); ?>
@@ -59,14 +65,16 @@
 			</div>
 		</section>
 
+		<?php foreach ($articles as $article): ?>
+
 		<section class="row section text-light" style="background-color: #FC6E51">
 			<div class="row-content buffer even clear-after">
 				<div class="column four centertxt">
 					<div class="big-icon red"><i class="fa fa-flash"></i></div>
 					<div class="big-icon-text clear-after">
-						<h4>SEBA 2016</h4>
-						<p class="text-s">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-						<a class="button transparent white" href="#">Lire plus</a>
+						<h4><?= $article['titre']; ?></h4>
+						<p class="text-s"><?= $article['resume']; ?></p>
+						<a class="button transparent white" href="single_post.php?id=<?= $article['id']?>">Lire plus</a>
 					</div>
 				</div>
 				<div class="column four centertxt">
@@ -86,7 +94,9 @@
 					</div>
 				</div>
 			</div>
-		</section>	
+		</section>
+
+		<?php endforeach ?>
 
 		<section class="row section text-light" style="background-color:#4fcead">
 			<div class="row-content buffer even clear-after">	

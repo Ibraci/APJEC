@@ -59,7 +59,7 @@
 						<p>Notre but est de créer un cadre de concertation et d’échanges d’expériences entre les enfants intervenant dans les médias ou d’autres formes d’expressions pour la promotion et la protection de leurs droits et devoirs.</p>
 						<img src="img/apjec520.jpg" style="margin: 0 auto;">
 						<p>Le but de l’Action pour la Promotion des Jeunes et Enfants Communicateurs est de créer un cadre de concertation ; d’échanges et de partage d’expériences entre les enfants intervenant dans les média ou d’autres formes d’expressions pour la promotion et la protection de leurs droits et devoirs. Regroupant filles et garçons, l’association est à but humanitaire et non lucratif. </p>
-						<iframe width="285" height="325" src="https://www.youtube.com/embed/AXw8Hk9FdhQ" frameborder="0" allowfullscreen></iframe>
+						<!-- <iframe width="285" height="325" src="https://www.youtube.com/embed/AXw8Hk9FdhQ" frameborder="0" allowfullscreen></iframe> -->
 						<p>C’est ainsi lors de sa 1er Assemblée Générale ordinaire tenue en décembre 2006, un Plan d’Action a été élaboré conformément aux trois sous commissions.</p>
 					</article>
 

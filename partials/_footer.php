@@ -1,4 +1,4 @@
-<footer role="contentinfo">
+		<footer>
 			<div class="row">
 				<div class="row-content buffer clear-after">
 					<section id="top-footer">
@@ -42,17 +42,18 @@
 						</div>														
 					</section><!-- top-footer -->
 					<section id="bottom-footer">
-						<p class="keep-left">&copy; 2017 <a href="http://apjec.ml" alt="APJEC">APJEC</a>. Powered by <a href="https://ibracilinks.ml" alt="Ibraci Links">Ibraci Links</a></p>
+						<p class="keep-left">&copy; 2017 <a href="http://apjec.ml" alt="APJEC">APJEC</a>. Powered by <a href="https://ibracilinks.ml" target="_blank" alt="Ibraci Links">Ibraci Links</a></p>
 					</section><!-- bottom-footer -->			
 				</div><!-- row-content -->	
 			</div><!-- row -->	
 		</footer>
-
+			<!--  AIzaSyCdzv_aTNsJzrosK4ziQhu95ZifWADrQe8 = API Key -->
 		<script src="https://code.jquery.com/jquery.js"></script>
-		<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>		
+		<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+		<!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCdzv_aTNsJzrosK4ziQhu95ZifWADrQe8&callback=initMap"></script> -->
 		<script src="js/plugins.js"></script>
 		<script src="js/beetle.js"></script>
-		<script>
+		<!-- <script>
 		$(document).ready(function(){
 			$('#send').click(function(){
 				$(this).val('Envoi ...');
@@ -65,8 +66,8 @@
 				return false;
 			});
 		});
-		</script>		
-
+		</script> -->
+		
 	</body>
 
 </html>

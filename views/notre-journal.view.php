@@ -20,17 +20,18 @@
 			<div class="column nine">
 				<article class="clear-after">
 					<div class="column three">
-						<figure><img src="http://placehold.it/600x600/ddd/fff&text=Beetle%20image" alt=""></figure>
+						<figure><img src="img/apjec520.jpg" alt=""></figure>
 					</div><!-- column three -->
 					<div class="column nine last">
 						<h2><a href="#">SEBA 2016</a></h2>
 						<h5 class="meta-post"><time datetime="2013-11-10">10 November 2016</time></h5>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>	
+						<a class="button transparent blue" href="#">Lire plus</a>
 					</div><!-- column nine -->
 				</article>
 				<article class="clear-after">
 					<div class="column three">
-						<figure><img src="http://placehold.it/600x600/ddd/fff&text=Beetle%20image" alt=""></figure>
+						<figure><img src="img/apjec520.jpg" alt=""></figure>
 					</div><!-- column three -->
 					<div class="column nine last">
 						<h2><a href="#">Semaine Nationale</a></h2>
@@ -40,7 +41,7 @@
 				</article>
 				<article class="clear-after">
 					<div class="column three">
-						<figure><img src="http://placehold.it/600x600/ddd/fff&text=Beetle%20image" alt=""></figure>
+						<figure><img src="img/apjec520.jpg" alt=""></figure>
 					</div><!-- column three -->
 					<div class="column nine last">
 						<h2><a href="#">Oxy-Jeunes</a></h2>
@@ -50,7 +51,7 @@
 				</article>
 				<article class="clear-after">
 					<div class="column three">
-						<figure><img src="http://placehold.it/600x600/ddd/fff&text=Beetle%20image" alt=""></figure>
+						<figure><img src="img/apjec520.jpg" alt=""></figure>
 					</div><!-- column three -->
 					<div class="column nine last">
 						<h2><a href="#">Maxi jeunes</a></h2>

@@ -5,7 +5,7 @@
 <main role="main">
 	<div id="intro-wrap" class="">
 		<div id="intro" class="preload darken more-button">					
-			<div class="map" data-maplat="12.6559882" data-maplon="-8.0148298" data-mapzoom="7" data-color="#(r(-" data-height="300" data-img="img/marker.png" data-info="Nous sommes basés à Bamako, Mali"></div>							
+			<div class="map" data-maplat="12.595977" data-maplon="-7.974053" data-mapzoom="7" data-color="#(r(-" data-height="300" data-img="img/marker.png" data-info="Nous sommes basés à Bamako, Mali"></div>
 		</div><!-- intro -->
 	</div><!-- intro-wrap -->
 
@@ -15,14 +15,14 @@
 			<div class="row-content buffer even clear-after">
 				<div class="section-title"><h3>Contactez-nous</h3></div>
 				<div class="column nine">
-					<form id="contact-form" class="contact-section" method="post" action="">
+					<form id="contact-form" class="contact-section" method="post" action="contact.php">
 						<span class="pre-input"><i class="fa fa-user"></i></span>
 						<input class="name plain buffer" type="text" name="name" placeholder="Nom Complet" required />
 						<span class="pre-input"><i class="fa fa-envelope"></i></span>
 						<input class="email plain buffer" type="email" name="email" placeholder="Email" required />
 						<textarea class="plain buffer" name="message" placeholder="Message" required></textarea>
-						<input id="send" name="envoyer" class="plain button red" type="button" value="Envoyer">
-					</form>	
+						<input id="send" name="envoyer" class="plain button blue" type="submit" value="Envoyer">
+					</form>
 					<div id="success"></div>
 				</div>
 				<div class="column three last">
@@ -48,7 +48,7 @@
 							<li><a href="https://www.facebook.com/ongapjec/" class="facebook-share border-box"><i class="fa fa-facebook fa-lg"></i></a></li>
 							<li><a href="#" class="youtube-share border-box"><i class="fa fa-youtube fa-lg"></i></a></li>
 						</ul>
-					</div>								
+					</div>
 				</div>
 			</div>
 		</section>
